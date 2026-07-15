@@ -1,5 +1,5 @@
 {
-	"name": "pl_test1",
+	"name": "pl_test",
 	"properties": {
 		"activities": [
 			{
@@ -8,7 +8,7 @@
 				"dependsOn": [],
 				"userProperties": [],
 				"typeProperties": {
-					"waitTimeInSeconds": 1
+					"waitTimeInSeconds": 2
 				}
 			}
 		],
